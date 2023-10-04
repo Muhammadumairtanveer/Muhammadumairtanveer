@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **Javascript,ReactJs**
+- 🌱 I’m currently learning **Javascript,ReactJs php**
 
 - 💬 Ask me about **Html,Css,Bootstrap,Python,C++**
 
